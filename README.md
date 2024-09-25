@@ -1,7 +1,7 @@
 ## Descripción
 
 Página estática de una lading page para una app para llamadas online.
-Hecha con HTML, CSS, SASS, Gulp y Bootstrap 5.
+Hecha con HTML, CSS, SASS, Gulp, JavaScript y Bootstrap 5.
 
 ## Ver página en vivo
 
